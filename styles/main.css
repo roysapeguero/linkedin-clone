@@ -12,6 +12,7 @@ main {
 
   min-width: 1128px;
   max-height: 560px;
+  margin-left: 115px;
 }
 
 .main-left {
@@ -131,7 +132,7 @@ p {
   }
 
   .search-aid {
-    width: 90%;
+    width: 85%;
   }
 
   .main-picture {
